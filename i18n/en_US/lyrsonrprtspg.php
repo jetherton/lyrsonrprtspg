@@ -14,6 +14,6 @@
  */
 
 	$lang = array(		
-		"layers"=>"Layers",
+		"layers"=>"Water Sector Data",
 	);
 ?>
